@@ -1,2 +1,2 @@
 # calculater-project
-it is my calculater project in python GUI
+it is my calculater project in python 
